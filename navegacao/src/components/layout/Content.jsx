@@ -1,5 +1,6 @@
 import './Content.css'
 import React from "react"
+import {Switch, Route} from ''
 
 const Content = propd => (
 
